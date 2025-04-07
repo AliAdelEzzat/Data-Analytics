@@ -16,8 +16,9 @@ Welcome to the **Maji Ndogo: Visualizing the Currents of Change** project! This 
 - **Excel**: Data organization and early-stage analysis.
 
 ## **Key Visuals and Insights**
+![Visual Summary of Crime and Gender Disparity Analysis](visual1.png)
 ### **Queue Analysis**
-- **Insight**: Women make up the majority of water collectors, yet face longer queue times during peak hours.
+- **Insight**: Women make up the majority of water collectors, yet face longer queue times during peak hours. 
 - **Visualization**: Hourly queue trends, gender distribution, and total time spent in queues per province.
 
 ### **Well Pollution**
